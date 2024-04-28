@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\preview\\Preview.jsx -> react-beautiful-dnd":{id:5948,files:["static/chunks/bee240a3.05288c84cd20258d.js","static/chunks/156.5bf68b0dd1d6b9b5.js"]},"builder.jsx -> ../components/utility/WinPrint":{id:8162,files:["static/chunks/162.d1ce3c461715ba79.js"]}};
